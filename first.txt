@@ -3,6 +3,9 @@ second line
 third line
 fourth line
 first line(branch-a)
+first line(branch-b)
+second line(branch-b)
 second line(branch-b)
 third line(branch-a)
+third line(branch-b)
 
